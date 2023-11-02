@@ -5,5 +5,7 @@ I'm the co-founder of Dome - a rapid project deployment platform.
 📫 Find me here:
 
 Email: jay@trydome.io
+
 LinkedIn: linkedin.com/in/jaybyoun
+
 Telegram: @jaybyoun
